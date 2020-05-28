@@ -1,0 +1,144 @@
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\ApplicationInsights.config
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\csc.exe
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\vbc.exe
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\ASA.dll.config
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\ASA.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\ASA.pdb
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.Web.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.Web.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\obj\Debug\ASA.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\obj\Debug\ASA.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\obj\Debug\ASA.pdb
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Oracle.DataAccess.dll
+C:\Users\Atakan\Documents\Visual Studio 2015\Projects\ASA\ASA\bin\Oracle.ManagedDataAccess.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\ApplicationInsights.config
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\csc.exe
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\vbc.exe
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\VBCSCompiler.exe
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\ASA.dll.config
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\ASA.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\ASA.pdb
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.Web.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Oracle.DataAccess.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Oracle.ManagedDataAccess.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.Web.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\androasPc2\Desktop\ASA\ASA\obj\Debug\ASA.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\obj\Debug\ASA.pdb
+C:\Users\androasPc2\Desktop\ASA\ASA\obj\Debug\ASA.csprojResolveAssemblyReference.cache
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Newtonsoft.Json.dll
+C:\Users\androasPc2\Desktop\ASA\ASA\bin\Newtonsoft.Json.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\ApplicationInsights.config
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\csc.exe
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\vbc.exe
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\VBCSCompiler.exe
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\ASA.dll.config
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\ASA.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\ASA.pdb
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.Web.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Newtonsoft.Json.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.Web.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Newtonsoft.Json.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\obj\Debug\ASA.csprojAssemblyReference.cache
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\obj\Debug\ASA.csproj.CoreCompileInputs.cache
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\obj\Debug\ASA.csproj.CopyComplete
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\obj\Debug\ASA.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\obj\Debug\ASA.pdb
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Oracle.ManagedDataAccess.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\BouncyCastle.Crypto.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Google.Protobuf.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Compression.LZ4.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Hash.xxHash.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\MySql.Data.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Renci.SshNet.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Buffers.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Memory.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Ubiety.Dns.Core.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Zstandard.Net.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Google.Protobuf.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Compression.LZ4.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\K4os.Hash.xxHash.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\MySql.Data.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Renci.SshNet.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Buffers.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Memory.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Mono.Security.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Npgsql.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.ValueTuple.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\Npgsql.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\System.ValueTuple.xml
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\de\Npgsql.resources.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\es\Npgsql.resources.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\fi\Npgsql.resources.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\fr\Npgsql.resources.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\ja\Npgsql.resources.dll
+C:\Users\seyf\Desktop\Web Projesi\JOJA\ASA\ASA\bin\zh-CN\Npgsql.resources.dll

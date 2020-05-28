@@ -1,0 +1,200 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="ASA.Home" %>
+
+<!DOCTYPE html>
+  <html class="no-js">
+	<head runat="server">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>FORMALDEHIT</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="question,questions" />
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<!-- Google Webfonts -->
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+       <style>
+    .wrapper {    
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+
+.form-signin {
+  max-width: 420px;
+  padding: 30px 38px 66px;
+  margin: 0 auto;
+  background-color: #eee;
+  border: 3px dotted rgba(0,0,0,0.1);  
+  }
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 10px;
+  height: auto;
+  padding: 10px;
+  margin-top:10px;
+}
+
+input[type="text"] {
+  margin-bottom: 0px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.colorgraph {
+  height: 7px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+</style>
+
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<!-- Salvattore -->
+	<link rel="stylesheet" href="css/salvattore.css">
+	<!-- Theme Style -->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+    <!--LATER-->
+   
+    <link rel="stylesheet" href="css/design.css">
+	</head>
+	<body>
+            <form id="form1" runat="server" method="post" name="container_form">
+      
+                <div id="fh5co-offcanvass1" style="height:500px;">
+		   <ul>		
+            
+<li> <img src="/images/cat.jpg" runat="server" id="profile_image" style="border-radius: 30%; display:block;margin:0 auto;" class=" centerImage img-responsive"></li>           
+			<li class="active" style="text-align:center;"><a><asp:Label runat="server" ID="Share_Name_LastName" Text=""></asp:Label></a></li>
+			
+            <li style="text-align:center" ><a><asp:Label runat="server" ID="Share_Nickname" Text=""></asp:Label></a></li>
+            <li style="text-align:center" ><a><asp:Label runat="server" ID="Share_Balance" Text=""></asp:Label></a></li>
+		</ul>
+            <button class="btnShare infoShare">My Questions</button>
+           <button class="btnShare warningShare">My Answers</button><br/><br />
+            
+                    <asp:Button runat="server" CssClass="btn-danger center-block"   ID="logout" Text="Log Out" OnClick="logout_Click" />
+		<!--<h3 class="fh5co-lead">Connect with us</h3>-->
+		
+	</div>  
+
+    <div  id="fh5co-offcanvass" style="height:500px;">
+       <h3 class="form-signin-heading">Welcome Back! Please Sign In</h3>
+       <hr class="colorgraph"><br>
+
+       <input type="text" class="form-control" name="username" runat="server" placeholder="Username"  autofocus="" id="username" />
+       <input type="password" class="form-control" name="Password" runat="server" placeholder="Password"  id="password"/>     		  	
+        <asp:Button class="btn btn-lg btn-primary btn-block" OnClientClick="value_control()" OnClick="LoginBtn_Click" runat="server" name="Submit" ID="Submit" value="Login" type="Submit" Text="Login"/>  						
+	           
+</div>
+  
+	<header id="fh5co-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 " style="background-color:lightseagreen">
+					
+                  <a href="HomeMaster.aspx" class="navbar-brand" style="color:white">FORMALDEHIT</a>
+                   <div style="text-align:right;">    <button runat="server" onserverclick="AddQuestionBut_Click" id="AddQuestionBut"  class="btnShare warningShare"><span class="glyphicon glyphicon-plus"></span>Add Question</button><br/><br />
+        
+                       </div>
+                    <asp:Panel ID="login_sign_up" runat="server">
+                        <a href="#" class="fh5co-menu-btn js-fh5co-menu-btn"style="color:white">LogIn</a>
+                        <a href="#" class="fh5co-menu-btn "style="color:white" >|</a>
+                        <a href="SignUp.aspx" class="fh5co-menu-btn"style="color:white">SignUp</a>
+                    </asp:Panel>
+
+                    <asp:Panel ID="profile" runat="server" Visible="false">
+                        <a href="#" class="fh5co-menu-btn js-fh5co-menu-btn1"style="color:white">Profile<i class="icon-menu"></i></a>   
+                    </asp:Panel>
+                        
+                               	
+                           
+                            <ul class="nav navbar-nav" >
+                                 <li class="active" ><a href="#"style="color:white" >Home</a></li>
+                                <li ><a href="#" style="color:white">HOTS</a></li>
+                                <li><a href="#" style="color:white">NEW</a></li>
+                                <li><a href="#" style="color:white">MOST</a></li>
+                            </ul>
+                    <span class="center-block" ><asp:ContentPlaceHolder ID="Search_place" runat="server"></asp:ContentPlaceHolder></span>
+                    
+	</div>
+                
+			</div>
+		</div>
+	</header>
+	
+
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+                         </asp:ContentPlaceHolder> 
+           				
+
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<!-- Salvattore -->
+	<script src="js/salvattore.min.js"></script>
+	<!-- Main JS -->
+	<script src="js/main.js"></script>
+     <script type="text/javascript">
+
+
+         function value_control() {
+             var password = document.getElementById("password");
+             var username = document.getElementById("username");
+             if (username.value.trim()=="") {
+                 alert("Please Fill Username Box");
+             }
+             if (password.value.trim()=="") {
+                 alert("Please Fill Password Box")
+             }
+        }
+
+         
+
+    </script>
+                </form>
+	</body>
+</html>
